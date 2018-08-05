@@ -139,7 +139,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: #18BC9C;  
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -181,7 +181,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #18BC9C;  /* change this hex num to get different background color scheme on the portfolio*/
   color: white;
 }
 @media (max-width: 767px) {
